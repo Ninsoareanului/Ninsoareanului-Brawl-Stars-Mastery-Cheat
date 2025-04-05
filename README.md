@@ -25,7 +25,7 @@ A recommended map to run the bot on is island invasion, using short/medium range
 * Python version 3.11.6
 
 ## How to install and run the bot?
-### [Watch the tutorial and common error fix playlist](https://youtube.com/playlist?list=PLD9X_geub8rmkcpJSWzvoqmB9VZk-9TfO&si=7vrCV9s1kLviRaTL)
+### Join this discord server https://discord.gg/MKFzxQmakG
 ### Clone Repo
 1. Clone the repository 
 ```
