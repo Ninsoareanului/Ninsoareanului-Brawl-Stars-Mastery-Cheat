@@ -1,5 +1,5 @@
-# BrawlStarsBot
-⚠️ **DISCLAIMER!!**  ****You can lose trophies while using the bot!! The bot's goal is to farm mastery****  ⚠️
+# Ninsoareanului Brawl Stars Mastery Bot
+****You can lose trophies while using the bot!! The bot's goal is to farm mastery****
 
 Brawl stars bot for farming mastery through solo showdown. The bot will find bushes and hide, it also attacks enemies if they are within range. Macro is integrated into the code to automate when defeated, it will queue up for another match automatically. 
 
@@ -18,10 +18,6 @@ A recommended map to run the bot on is island invasion, using short/medium range
 - Attack the enemy when they are in the range
 - Activate gadget when the enemy is closer to the player
 - Custom Bluestack game control for the bot
-
-  
-## Demo of the bot
-[![Watch the video](https://github.com/Jooi025/BrawlStarsBot/blob/main/misc/image/youtube_thumbnail.jpg)](https://youtu.be/TWmNfkQBVYk?si=CXaSBoAV-YknJPLt)
 
 ## Requirement
 * Windows OS
